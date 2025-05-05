@@ -1,9 +1,5 @@
 # Dashboard Visualizaer Task
 
-[![Watch the video](https://img.youtube.com/vi/ohnAR_onlBg/maxresdefault.jpg)](https://youtu.be/ohnAR_onlBg)
-
-### [Demo and Explanation ](https://youtu.be/ohnAR_onlBg)
-
 ## Download or Clone the repo
 run these command in each folder backend and frontend
 
