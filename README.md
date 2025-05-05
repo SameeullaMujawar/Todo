@@ -1,5 +1,3 @@
-# Dashboard Visualizaer Task
-
 ## Download or Clone the repo
 run these command in each folder backend and frontend
 
